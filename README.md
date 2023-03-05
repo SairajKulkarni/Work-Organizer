@@ -37,6 +37,9 @@ MongoDB, Mongoose
 
 ## Deployment
 
+Website is live you can access it on:
+[https://to-do-uzui.onrender.com/](https://to-do-uzui.onrender.com/)
+
 First of all "node-js" is required.
 
 I have used 18.14.2 version for this project.
