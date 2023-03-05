@@ -54,8 +54,10 @@ As I recommend if you download as zip file and then extract it then you can dire
 
 
 ```bash
-  cd downloads/"TO-DO-Web-App-master"/"TO-DO-Web-App-master"
+  cd downloads/"Work-Organizer-main"/"Work-Organizer-main"
 ```
+If it does not work then simply paste the path where all the files of this particular project folder are present after 'doenloads/'
+
 
 Then use the following command to install all the packages/ technologies used for this project:
 
