@@ -1,4 +1,14 @@
-# Task Management Web Application
+# Table of Contents
+
+- [Task Management Web Application](#task-management-web-application)
+- [Tech Stack](#tech-stack)
+- [Packages / Dependencies](#packages--dependencies)
+- [Deployment](#deployment)
+  - [Demo Video](#demo-video)
+- [Possible Errors](#possible-errors)
+
+  
+## Task Management Web Application
 
 Web-based task management platform  with    user registration and login offers  a   user-friendly interface for categorizing  tasks under domains, creating new tasks, setting  reminders,      and searching for specific tasks within  domains; it also includes an alarm and desktop  notification system for reminders and helps users s       tay organized and complete tasks on time, ultimately leading to increased productivity and less stress.
 
