@@ -12,7 +12,6 @@ const session = require("express-session");
 const passport = require("passport");
 const passportLocalMongoose = require("passport-local-mongoose");
 
-console.log(process.env.DB_URI);
 mongoose.set("strictQuery", true);
 app.use(express.static("public"));
 app.set("view engine", "ejs");
